@@ -1,5 +1,7 @@
 # mcn-tensorflow-tutorial
 
+The [`main.ipynb`](./main.ipynb) notebook contains your problem to work on. The [`tensorflow-examples.ipynb`](./tensorflow-examples.ipynb) contains some examples that may help you understand how tensorflow works -- but you should start with **main.ipynb**.
+
 ## Setup (Mac OSX or Linux)
 
 1. Download anaconda: https://www.continuum.io/downloads (we recommend Python 3.6).
